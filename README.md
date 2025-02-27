@@ -1,18 +1,17 @@
-# Project Name
+# Plagiarism Detection in Source Code
 
 ## Description
-This project is a Jupyter Notebook-based implementation of [describe what your project does]. The notebook demonstrates [briefly explain the core functionality, goal, or experiment performed].
+This project aims to develop an advanced plagiarism detection system for source code, focusing on Python and C++. Traditional plagiarism detection methods often fail to identify subtle modifications, such as variable renaming, function reordering, and restructuring of loops. This project leverages deep learning techniques, particularly CodeGPT and CodeBERT, to enhance the accuracy and robustness of plagiarism detection.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- It can detect plagiarism of Python Code.
+- It can detect plagiarism of C++ Code.
 
 ## Requirements
 To run the notebook, make sure you have the following installed:
 - Python 3.x
 - Jupyter Notebook
-- Dependencies listed in `requirements.txt` or `environment.yml`
+- Hugging Face authorization token for model.
 
 ### Install Dependencies
 To set up the environment, you can use the following steps:
