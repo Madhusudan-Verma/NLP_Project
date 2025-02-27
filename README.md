@@ -18,4 +18,7 @@ To set up the environment, you can use the following steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/projectname.git
+   https://github.com/Madhusudan-Verma/NLP_Project.git
+2.Change the directory for dataset \
+3.Put the hugging face token .\
+4.Run the jupyter notebook file.
